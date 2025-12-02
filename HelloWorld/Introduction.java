@@ -1,4 +1,4 @@
-package Variables1;
+package HelloWorld;
 
 public class Introduction  { // Class declaration
     public static void main(String[] args) { // Main method
